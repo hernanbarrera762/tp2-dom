@@ -1,0 +1,26 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    display: flex;
+    padding: 3%;
+    margin-left: 40%;
+    color: aqua;
+}
+input{
+    display: flex;
+    margin-left: 45%;
+}
+label{
+    display: flex;
+    margin-left: 45%;
+}
+
+button{
+    display: flex;
+    margin-left: 45%;
+    color: brown;
+    border-radius: 15%;
+    width: 200px;
+    font-size: 100%;
+}
