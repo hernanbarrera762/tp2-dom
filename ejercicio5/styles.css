@@ -1,0 +1,24 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+h1{
+    display: flex;
+    margin-left: 43%;
+}
+label{
+    display: flex;
+    margin-left: 45%;
+}
+input{
+    display: flex;
+    margin-left: 45%;
+}
+button{
+    display: flex;
+    margin-left: 47%;
+}
+h2{
+    display: flex;
+    margin-left: 47%;
+}
